@@ -1,7 +1,7 @@
 {
     "name": "Your T-Shirts",
     "short_name": "Tshirts",
-    "start_url": "index.html",
+    "start_url": "https://joyd15b16.github.io/PWA/",
     "display": "standalone",
     "background_color": "#FFE902",
     "theme_color": "#317EFB",
